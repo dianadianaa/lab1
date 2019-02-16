@@ -1,0 +1,11 @@
+/Users/dee/Desktop/example/example/bin/Debug/netcoreapp2.0/example.deps.json
+/Users/dee/Desktop/example/example/bin/Debug/netcoreapp2.0/example.runtimeconfig.json
+/Users/dee/Desktop/example/example/bin/Debug/netcoreapp2.0/example.runtimeconfig.dev.json
+/Users/dee/Desktop/example/example/bin/Debug/netcoreapp2.0/example.dll
+/Users/dee/Desktop/example/example/bin/Debug/netcoreapp2.0/example.pdb
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.csprojAssemblyReference.cache
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.csproj.CoreCompileInputs.cache
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.AssemblyInfoInputs.cache
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.AssemblyInfo.cs
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.dll
+/Users/dee/Desktop/example/example/obj/Debug/netcoreapp2.0/example.pdb

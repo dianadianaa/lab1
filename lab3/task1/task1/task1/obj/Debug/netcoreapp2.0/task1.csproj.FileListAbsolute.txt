@@ -1,0 +1,11 @@
+/Users/dee/Desktop/lab3/task1/task1/task1/bin/Debug/netcoreapp2.0/task1.deps.json
+/Users/dee/Desktop/lab3/task1/task1/task1/bin/Debug/netcoreapp2.0/task1.runtimeconfig.json
+/Users/dee/Desktop/lab3/task1/task1/task1/bin/Debug/netcoreapp2.0/task1.runtimeconfig.dev.json
+/Users/dee/Desktop/lab3/task1/task1/task1/bin/Debug/netcoreapp2.0/task1.dll
+/Users/dee/Desktop/lab3/task1/task1/task1/bin/Debug/netcoreapp2.0/task1.pdb
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.csprojAssemblyReference.cache
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.csproj.CoreCompileInputs.cache
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.AssemblyInfoInputs.cache
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.AssemblyInfo.cs
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.dll
+/Users/dee/Desktop/lab3/task1/task1/task1/obj/Debug/netcoreapp2.0/task1.pdb
